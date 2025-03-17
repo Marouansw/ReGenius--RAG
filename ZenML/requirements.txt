@@ -1,0 +1,8 @@
+langchain_community
+langchain_core
+langchain_huggingface
+langchain_mistralai
+langchain_nomic
+langchain_ollama
+langchain_text_splitters
+zenml
